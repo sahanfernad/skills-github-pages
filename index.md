@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog!
-
-p:This is my learnig pathway to github.
-
-p:I am completeing the exercises on skills-github-pages.
 ---
+
+This is my learning pathway to GitHub.
+
+I am completing the exercises on skills-github-pages.
